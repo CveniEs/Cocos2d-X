@@ -19,9 +19,6 @@ public :
 
 	Hero* mHero;
 
-	//void ccTouchesBegan(CCSet* pTouches, CCEvent* pEvents);
-
-//private :
 	SpriteBatchNode* mActors;
 
 	void update(float dt);
